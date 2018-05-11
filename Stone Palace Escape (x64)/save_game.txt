@@ -1,0 +1,25 @@
+0*
+Chamber of Mirrors*You are in an enourmous room surrounded with mirrors reflecting the light from  your torch.  There is a heavy, metal grate in the middle of the floor and a     balcony above you to the right.   You can see doors to North, South, and West.  Additionally, there seems to  be doors to the Northwest and Northeast that are  blocked by iron grates.*0*
+North Hallway*NULL*South Hallway*West Hallway*NULL*NULL*NULL*NULL*NULL*NULL*
+South Hallway*A blazing brazier occupies the corner of the room.  You also see an unlit torch mounted on the gray, stone walls as well as a door to the North.*1*
+Chamber*NULL*NULL*NULL*NULL*NULL*NULL*NULL*NULL*NULL*
+West Overlook*You find what looks like a stone switch on the wall.  There is a door to the    East, but it seems to be locked shut.  There is another door to the West.*0*
+NULL*NULL*NULL*Upper Passage*NULL*NULL*NULL*NULL*NULL*NULL*
+Falling Passage*The walls of the passage are vacant of any adornments, and the floor is made up of smooth sections of stone.  You see nothing of interest besides the doors to  the South and West.*0*
+NULL*NULL*Falling Room*East Overlook*NULL*NULL*NULL*NULL*NULL*NULL*
+Garden*Above the tall, stone walls, you see a cloudy, blue sky as there is no ceiling. Sunlight streams in on green foliage and stone benches.  Stone steps descend to somewhere below, but halfway down they are submerged in rushing water.  You see what looks like an old, rusty key on a stretch of grass as well as a door to    the South.  The door to the Southeast won't budge.*1*
+NULL*NULL*Narrow Hall*NULL*NULL*NULL*NULL*NULL*NULL*NULL*
+Graveyard*You see many graves and tombstones among the dirt.  You see writing on some,    but nothing is legible.  The air is quite musky and you see a switch on the     moss-covered wall.  There is a door to the West.*0*
+NULL*NULL*NULL*Tombs*NULL*NULL*NULL*NULL*NULL*NULL*
+Sewers*The entire floor is covered in water.  Grates block access to the rest of the   tunnel.  There are stairs leading upward.*0*
+NULL*NULL*NULL*NULL*NULL*NULL*NULL*NULL*Garden*NULL*
+Place of Confusion*You see a statue in the center of the room, staring with cold, lifeless eyes.   It looks like there's a note at the base of the statue, covered in dust.  There is a door to the South.*1*
+NULL*NULL*North Hallway*NULL*NULL*NULL*NULL*NULL*NULL*NULL*
+Balcony*You look out over an enourmous room with walls covered in mirrors.  A long rope lies on the railing before you.  There is the door you came from to the East.*1*
+NULL*East Hallway*NULL*NULL*NULL*NULL*NULL*NULL*NULL*Chamber of Mirrors*
+Place of Menace*You feel... unsettled.... as if there is a dark presence in the room.  You see  small alcoves in every direction, except for to the North where there is just a blank wall.  The rope you climbed down is dangling above you.*0*
+NULL*Eastern Alcove*Southern Alcove*Western Alcove*Northeastern Alcove*Northwestern Alcove*Southeastern Alcove*Southwestern Alcove*Chamber of Mirrors*NULL*
+South Hallway
+South Hallway*
+7*4*5*
+You also see a drawing of a clock on the wall.  The hour hand points  between 10 and 11, the minute hand points between 7 and 8, and the second hand points between 1 and 2.
